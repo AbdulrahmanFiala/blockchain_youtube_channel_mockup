@@ -1,0 +1,38 @@
+#title {
+  text-align: center;
+}
+
+.form {
+  width: 50vw;
+  height: 50vh;
+  margin: auto;
+}
+
+.form-field {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.form-label {
+  display: block;
+  padding-bottom: 5px;
+}
+
+.form-box {
+  display: block;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.radio-label {
+  display: block;
+}
+
+button {
+  background-color: rgba(12, 12, 12, 0.575);
+  border-radius: 5px;
+  width: 100px;
+  height: 50px;
+  color: white;
+}

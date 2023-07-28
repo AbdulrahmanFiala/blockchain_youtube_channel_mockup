@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="success.css" />
+
+    <title>Success Page</title>
+  </head>
+  <body>
+    <div id="success-page">
+      <div id="success-icon">
+        <img src="sucess.jpg" />
+        <h1>SUCCESS</h1>
+      </div>
+      <div class="congrats">
+        <h3>Congratulations, your video has been uploaded succefully</h3>
+        <form>
+          <button type="button" onclick="redirectToLocalPage()">
+            Continue
+          </button>
+
+          <script>
+            function redirectToLocalPage() {
+              window.location.href = "my_blockchain_channel_v1.1.html";
+            }
+          </script>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
