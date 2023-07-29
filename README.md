@@ -1,4 +1,7 @@
 # Blockchain YouTube Channel Mockup
+
+![Blockchain YouTube Channel Mockup](https://raw.githubusercontent.com/abdulrahmanfiala/blockchain_youtube_channel_mockup/main/images/screenshot_channel_home.jpg)
+
 Welcome to the Blockchain YouTube Channel Mockup repository! This project consists of four HTML pages styled with CSS, offering a captivating
 mockup of a YouTube channel entirely dedicated to blockchain technology.
 
